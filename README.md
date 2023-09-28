@@ -5,9 +5,14 @@ its an easy ctf challlange
 
 Use the tool apktool to decompile the file
 
-#$apktool d Star.apk
+$apktool d Star.apk
+
 $cd Star
+
 $cd assets
+
 $ls RTHA
+
 $ls -la
+
 $cat .RTHA.txt
