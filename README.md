@@ -11,7 +11,7 @@ $cd Star
 
 $cd assets
 
-$ls RTHA
+$cd RTHA
 
 $ls -la
 
